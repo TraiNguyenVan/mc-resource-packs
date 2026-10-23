@@ -1,0 +1,7 @@
+{
+  "entity.llama.ambient": {
+    "sounds": [
+      "minecraft:llama/ambient"
+    ]
+  }
+}
