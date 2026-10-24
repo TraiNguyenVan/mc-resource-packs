@@ -4,18 +4,6 @@
     "sounds": [
       {
         "name": "minecraft:cat/ambient/01_onii_chan"
-      },
-      {
-        "name": "minecraft:cat/ambient/02_baka_cirno"
-      },
-      {
-        "name": "minecraft:cat/ambient/03_senpai"
-      },
-      {
-        "name": "minecraft:cat/ambient/04_wonderhoy"
-      },
-      {
-        "name": "minecraft:cat/ambient/05_cute_anime_girl_giggle"
       }
     ]
   }
