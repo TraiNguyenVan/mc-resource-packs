@@ -9,8 +9,8 @@ Custom Java Edition resource packs. Each top-level directory is a pack with a
 | --- | --- |
 | `server-additional-features-pack` | cat ambient sound (clip 01), creeper fuse (bomb.m4a), and generic explosions (bomb-1.m4a) |
 
-The source audio recordings remain at the repository root; the pack contains mono 32 kHz
-Vorbis copies under its `assets/minecraft/sounds/` directory.
+The source audio recordings remain at the repository root; the pack contains stereo 48 kHz
+high-quality Vorbis copies under its `assets/minecraft/sounds/` directory.
 
 ## Build
 
