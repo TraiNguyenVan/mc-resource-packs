@@ -6,5 +6,13 @@
         "name": "minecraft:cat/ambient/01_onii_chan"
       }
     ]
+  },
+  "entity.generic.explode": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "minecraft:entity/generic/c4_beep_cs2"
+      }
+    ]
   }
 }
