@@ -30,4 +30,4 @@ ffmpeg -ss <start> -t <len> -i <video> -map 0:a \
   -ac 1 -ar 32000 -vn <out>.ogg
 ```
 
-`.ogg` Vorbis, mono, 32 kHz is what the game expects for mob replacements.
+Pack sounds use mono OGG Vorbis; each file declares its sample rate in the OGG header.

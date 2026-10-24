@@ -11,7 +11,9 @@
     "replace": true,
     "sounds": [
       {
-        "name": "minecraft:entity/creeper/fuse_bomb"
+        "name": "minecraft:entity/creeper/fuse_bomb",
+        "volume": 1.0,
+        "pitch": 1.0
       }
     ]
   },
@@ -19,7 +21,9 @@
     "replace": true,
     "sounds": [
       {
-        "name": "minecraft:entity/generic/explode_bomb1"
+        "name": "minecraft:entity/generic/explode_bomb1",
+        "volume": 1.0,
+        "pitch": 1.0
       }
     ]
   }
