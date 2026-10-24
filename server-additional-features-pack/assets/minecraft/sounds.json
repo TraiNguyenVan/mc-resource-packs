@@ -1,41 +1,21 @@
 {
-  "entity.llama.ambient": {
+  "entity.cat.ambient": {
+    "replace": true,
     "sounds": [
       {
-        "name": "minecraft:llama/ambient",
-        "pitch": 1.0
-      }
-    ]
-  },
-  "entity.llama.hurt": {
-    "sounds": [
+        "name": "minecraft:cat/ambient/01_onii_chan"
+      },
       {
-        "name": "minecraft:llama/ambient",
-        "pitch": 1.25
-      }
-    ]
-  },
-  "entity.llama.death": {
-    "sounds": [
+        "name": "minecraft:cat/ambient/02_baka_cirno"
+      },
       {
-        "name": "minecraft:llama/ambient",
-        "pitch": 0.75
-      }
-    ]
-  },
-  "entity.llama.eat": {
-    "sounds": [
+        "name": "minecraft:cat/ambient/03_senpai"
+      },
       {
-        "name": "minecraft:llama/ambient",
-        "pitch": 0.9
-      }
-    ]
-  },
-  "entity.llama.spit": {
-    "sounds": [
+        "name": "minecraft:cat/ambient/04_wonderhoy"
+      },
       {
-        "name": "minecraft:llama/ambient",
-        "pitch": 1.35
+        "name": "minecraft:cat/ambient/05_cute_anime_girl_giggle"
       }
     ]
   }

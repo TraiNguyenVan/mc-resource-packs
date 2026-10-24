@@ -7,10 +7,10 @@ Custom Java Edition resource packs. Each top-level directory is a pack with a
 
 | Pack | Replaces |
 | --- | --- |
-| `server-additional-features-pack` | llama ambient sounds |
+| `server-additional-features-pack` | cat ambient sounds (randomly selects one of five supplied clips) |
 
-Repackaged raw audio lives nowhere; source recordings must be re-added by the
-maintainer alongside the `.ogg` they produce.
+The source MP3 recordings remain at the repository root; the pack contains mono 32 kHz
+Vorbis copies under its `assets/minecraft/sounds/cat/ambient/` directory.
 
 ## Build
 
