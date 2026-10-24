@@ -13,7 +13,7 @@
       {
         "name": "minecraft:entity/creeper/fuse_bomb",
         "volume": 1.0,
-        "pitch": 1.0
+        "pitch": 2.0
       }
     ]
   },
@@ -23,7 +23,7 @@
       {
         "name": "minecraft:entity/generic/explode_bomb1",
         "volume": 1.0,
-        "pitch": 1.0
+        "pitch": 1.4285714
       }
     ]
   }
