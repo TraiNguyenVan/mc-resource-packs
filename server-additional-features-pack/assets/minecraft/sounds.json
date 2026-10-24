@@ -1,7 +1,42 @@
 {
   "entity.llama.ambient": {
     "sounds": [
-      "minecraft:llama/ambient"
+      {
+        "name": "minecraft:llama/ambient",
+        "pitch": 1.0
+      }
+    ]
+  },
+  "entity.llama.hurt": {
+    "sounds": [
+      {
+        "name": "minecraft:llama/ambient",
+        "pitch": 1.25
+      }
+    ]
+  },
+  "entity.llama.death": {
+    "sounds": [
+      {
+        "name": "minecraft:llama/ambient",
+        "pitch": 0.75
+      }
+    ]
+  },
+  "entity.llama.eat": {
+    "sounds": [
+      {
+        "name": "minecraft:llama/ambient",
+        "pitch": 0.9
+      }
+    ]
+  },
+  "entity.llama.spit": {
+    "sounds": [
+      {
+        "name": "minecraft:llama/ambient",
+        "pitch": 1.35
+      }
     ]
   }
 }
