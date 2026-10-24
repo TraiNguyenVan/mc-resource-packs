@@ -7,11 +7,11 @@
       }
     ]
   },
-  "entity.generic.explode": {
+  "entity.creeper.primed": {
     "replace": true,
     "sounds": [
       {
-        "name": "minecraft:entity/generic/c4_beep_cs2"
+        "name": "minecraft:entity/creeper/fuse_c4_cs2"
       }
     ]
   }
