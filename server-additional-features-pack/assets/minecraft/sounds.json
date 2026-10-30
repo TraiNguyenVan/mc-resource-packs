@@ -4,6 +4,12 @@
     "sounds": [
       {
         "name": "minecraft:cat/ambient/01_onii_chan"
+      },
+      {
+        "name": "minecraft:cat/ambient/02_oh_my_gah"
+      },
+      {
+        "name": "minecraft:cat/ambient/03_meow"
       }
     ]
   },
